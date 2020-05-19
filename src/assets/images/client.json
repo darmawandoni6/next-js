@@ -1,0 +1,11 @@
+[{
+    "img": "Client/client-img.png",
+    "name": "John Doe",
+    "job": "Designer",
+    "body": "Phasellus - ut augue at sapien bibendum bibendum amet magna. Aenean condimentum, lacus sit amet luctus lobortis, enim tellus ultrices elit, amet consequat enim elit noneas."
+}, {
+    "img": "Client/client-img.png",
+    "name": "Michael Smith",
+    "job": "CEO",
+    "body": "Nascetur augue hac platea enim, egestas pulvinar vut. Pulvinar cum, ac eu, tristie acus duis in dictumst non integer. Elit, sed scelerisque odio tortor, sed platea dis. Aenean condimentum, lacus sit amet luctus lobortis, enim tellus ultrices elit."
+}]
